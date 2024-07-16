@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Buncha Fools dev<br>Chaotic United dev<br>Mount & Blade II: Bannerlord modder</h3>
+<h3 align="center"><a href="https://bunchafools.com/">Buncha Fools</a> dev<br><a href="https://www.nexusmods.com/mountandblade2bannerlord/mods/5627">Mount & Blade II: Bannerlord</a> modder<br>Amateur web dev</h3>
 
 ###
 
