@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center"><a href="https://bunchafools.com/" target="_blank" rel="noopener noreferrer">Buncha Fools</a> dev<br><a href="https://www.nexusmods.com/mountandblade2bannerlord/mods/5627" target="_blank" rel="noopener noreferrer">Mount & Blade II: Bannerlord</a> modder<br>Amateur web dev</h3>
+<h3 align="center"><a href="https://bunchafools.com/" target="_blank" rel="noopener noreferrer">Buncha Fools</a> dev<br><a href="https://next.nexusmods.com/profile/Windwhistle/mods" target="_blank" rel="noopener noreferrer">Mount & Blade II: Bannerlord</a> modder<br>Amateur web dev</h3>
 
 ###
 
